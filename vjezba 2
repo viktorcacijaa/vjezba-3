@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Moji najdraži filmovi</title>
+
+
+
+
+
+    
+</head>
+<body>
+  <h1>The best movies</h1>
+  <h3> My top 3 movies of all-time</h3>
+  <hr>
+  <h3>Fast and Furios 5</h3>
+  <p>This is one of my favorite movies. <br> The film follows a team of street racers who use their skills to fight crime.  <br>The film is known for the action, speed and cars with which the races took place in the film. <br></p>
+
+
+  <h3>Ford vs Ferrari</h3>
+  <p>This film highlights the engineering ingenuity in the automotive industry. <br> 
+    The film follows the true story of the rivalry between Ford and Ferrari during the 1960s. <br></p>
+
+
+
+  <h3>Top gun</h3>
+  <p>This film follows a military pilot, Maverick, who is trained at an elite aviator school. <br>
+    The film is known for its thrilling dogfights and Maverick's struggle with his ego and the loss of his friends. <br></p>
+  
+  
+</body>
+</html>
